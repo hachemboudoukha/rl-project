@@ -1,0 +1,9 @@
+2026-01-04 18:51:01,606 INFO Starting experiment: qlearning_gridworld
+2026-01-04 18:51:01,915 INFO Experiment finished in 0.31s
+2026-01-04 18:51:01,916 INFO Results saved to saved_models/q_values/qlearning_gridworld.pkl
+2026-01-04 19:05:20,303 INFO Starting experiment: qlearning_gridworld
+2026-01-04 19:05:20,503 INFO Experiment finished in 0.20s
+2026-01-04 19:05:20,503 INFO Results saved to saved_models/q_values/qlearning_gridworld.pkl
+2026-01-04 19:16:56,690 INFO Starting experiment: qlearning_gridworld
+2026-01-04 19:16:56,904 INFO Experiment finished in 0.21s
+2026-01-04 19:16:56,905 INFO Results saved to saved_models/q_values/qlearning_gridworld.pkl
