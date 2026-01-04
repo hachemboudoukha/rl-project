@@ -1,0 +1,15 @@
+2026-01-04 23:04:05,412 INFO Starting experiment: mc_on_line_world
+2026-01-04 23:04:05,977 INFO Experiment finished in 0.57s
+2026-01-04 23:04:05,977 INFO Results saved to saved_models/q_values/mc_on_line_world.pkl
+2026-01-04 23:06:29,763 INFO Starting experiment: mc_on_line_world
+2026-01-04 23:06:29,839 INFO Experiment finished in 0.08s
+2026-01-04 23:06:29,839 INFO Results saved to saved_models/q_values/mc_on_line_world.pkl
+2026-01-04 23:07:39,532 INFO Starting experiment: mc_on_line_world
+2026-01-04 23:07:39,616 INFO Experiment finished in 0.08s
+2026-01-04 23:07:39,616 INFO Results saved to saved_models/q_values/mc_on_line_world.pkl
+2026-01-04 23:11:02,357 INFO Starting experiment: mc_on_line_world
+2026-01-04 23:11:02,423 INFO Experiment finished in 0.06s
+2026-01-04 23:11:02,423 INFO Results saved to saved_models/q_values/mc_on_line_world.pkl
+2026-01-04 23:12:52,777 INFO Starting experiment: mc_on_line_world
+2026-01-04 23:12:53,330 INFO Experiment finished in 0.55s
+2026-01-04 23:12:53,330 INFO Results saved to saved_models/q_values/mc_on_line_world.pkl

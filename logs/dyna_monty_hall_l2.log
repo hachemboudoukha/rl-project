@@ -1,0 +1,6 @@
+2026-01-04 23:11:04,051 INFO Starting experiment: dyna_monty_hall_l2
+2026-01-04 23:11:04,219 INFO Experiment finished in 0.17s
+2026-01-04 23:11:04,219 INFO Results saved to saved_models/q_values/dyna_monty_hall_l2.pkl
+2026-01-04 23:12:59,365 INFO Starting experiment: dyna_monty_hall_l2
+2026-01-04 23:12:59,936 INFO Experiment finished in 0.57s
+2026-01-04 23:12:59,936 INFO Results saved to saved_models/q_values/dyna_monty_hall_l2.pkl

@@ -1,0 +1,15 @@
+2026-01-04 23:04:05,978 INFO Starting experiment: sarsa_line_world
+2026-01-04 23:04:06,061 INFO Experiment finished in 0.08s
+2026-01-04 23:04:06,061 INFO Results saved to saved_models/q_values/sarsa_line_world.pkl
+2026-01-04 23:06:29,840 INFO Starting experiment: sarsa_line_world
+2026-01-04 23:06:29,856 INFO Experiment finished in 0.02s
+2026-01-04 23:06:29,856 INFO Results saved to saved_models/q_values/sarsa_line_world.pkl
+2026-01-04 23:07:39,617 INFO Starting experiment: sarsa_line_world
+2026-01-04 23:07:39,644 INFO Experiment finished in 0.03s
+2026-01-04 23:07:39,645 INFO Results saved to saved_models/q_values/sarsa_line_world.pkl
+2026-01-04 23:11:02,423 INFO Starting experiment: sarsa_line_world
+2026-01-04 23:11:02,455 INFO Experiment finished in 0.03s
+2026-01-04 23:11:02,455 INFO Results saved to saved_models/q_values/sarsa_line_world.pkl
+2026-01-04 23:12:53,331 INFO Starting experiment: sarsa_line_world
+2026-01-04 23:12:53,465 INFO Experiment finished in 0.13s
+2026-01-04 23:12:53,468 INFO Results saved to saved_models/q_values/sarsa_line_world.pkl

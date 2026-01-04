@@ -1,0 +1,9 @@
+2026-01-04 23:07:40,936 INFO Starting experiment: dyna_rps
+2026-01-04 23:07:41,043 INFO Experiment finished in 0.11s
+2026-01-04 23:07:41,045 INFO Results saved to saved_models/q_values/dyna_rps.pkl
+2026-01-04 23:11:03,620 INFO Starting experiment: dyna_rps
+2026-01-04 23:11:03,715 INFO Experiment finished in 0.09s
+2026-01-04 23:11:03,715 INFO Results saved to saved_models/q_values/dyna_rps.pkl
+2026-01-04 23:12:57,681 INFO Starting experiment: dyna_rps
+2026-01-04 23:12:57,965 INFO Experiment finished in 0.28s
+2026-01-04 23:12:57,965 INFO Results saved to saved_models/q_values/dyna_rps.pkl

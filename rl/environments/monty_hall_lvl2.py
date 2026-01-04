@@ -43,7 +43,8 @@ class MontyHallLvl2(BaseEnvironment):
         # 2. Agent chooses to Keep or Switch
         if action == 1: # Switch
             remaining = [d for d in self.doors if d != self.current_choice and d not in self.opened_doors]
-            self.current_choice = random.choice(remaining)
+            if len(remaining) > 0:
+                self.current_choice = random.choice(remaining)
         
         self.step_count += 1
         

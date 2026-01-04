@@ -34,18 +34,18 @@ def train_all_on_env(env, env_name, episodes_td=5000, episodes_mc=10000):
     if hasattr(env, 'get_states') and hasattr(env, 'state'):
         print("\n--- Running Dynamic Programming ---")
         pi = PolicyIteration(env)
-        run_experiment(pi, episodes=None, name=f"pi_{env_name}", 
+        run_experiment(pi, episodes=200, name=f"pi_{env_name}", 
                        save_path=f"saved_models/policies/pi_{env_name}.pkl")
         
         vi = ValueIteration(env)
-        run_experiment(vi, episodes=None, name=f"vi_{env_name}", 
+        run_experiment(vi, episodes=200, name=f"vi_{env_name}", 
                        save_path=f"saved_models/policies/vi_{env_name}.pkl")
 
     # 2. Monte Carlo
-    print("\n--- Running Monte Carlo ---")
-    mc_es = MonteCarloES(env)
-    run_experiment(mc_es, episodes=episodes_mc, name=f"mc_es_{env_name}", 
-                   save_path=f"saved_models/q_values/mc_es_{env_name}.pkl")
+    #print("\n--- Running Monte Carlo ---")
+    #mc_es = MonteCarloES(env)
+    #run_experiment(mc_es, episodes=episodes_mc, name=f"mc_es_{env_name}", 
+    #               save_path=f"saved_models/q_values/mc_es_{env_name}.pkl")
     
     mc_on = OnPolicyFirstVisitMC(env)
     run_experiment(mc_on, episodes=episodes_mc, name=f"mc_on_{env_name}", 

@@ -1,0 +1,15 @@
+2026-01-04 23:04:06,065 INFO Starting experiment: ql_line_world
+2026-01-04 23:04:06,138 INFO Experiment finished in 0.07s
+2026-01-04 23:04:06,138 INFO Results saved to saved_models/q_values/ql_line_world.pkl
+2026-01-04 23:06:29,856 INFO Starting experiment: ql_line_world
+2026-01-04 23:06:29,891 INFO Experiment finished in 0.03s
+2026-01-04 23:06:29,891 INFO Results saved to saved_models/q_values/ql_line_world.pkl
+2026-01-04 23:07:39,645 INFO Starting experiment: ql_line_world
+2026-01-04 23:07:39,669 INFO Experiment finished in 0.02s
+2026-01-04 23:07:39,670 INFO Results saved to saved_models/q_values/ql_line_world.pkl
+2026-01-04 23:11:02,455 INFO Starting experiment: ql_line_world
+2026-01-04 23:11:02,492 INFO Experiment finished in 0.04s
+2026-01-04 23:11:02,494 INFO Results saved to saved_models/q_values/ql_line_world.pkl
+2026-01-04 23:12:53,468 INFO Starting experiment: ql_line_world
+2026-01-04 23:12:53,550 INFO Experiment finished in 0.08s
+2026-01-04 23:12:53,550 INFO Results saved to saved_models/q_values/ql_line_world.pkl

@@ -1,0 +1,15 @@
+2026-01-04 23:04:06,140 INFO Starting experiment: dyna_line_world
+2026-01-04 23:04:06,594 INFO Experiment finished in 0.45s
+2026-01-04 23:04:06,594 INFO Results saved to saved_models/q_values/dyna_line_world.pkl
+2026-01-04 23:06:29,892 INFO Starting experiment: dyna_line_world
+2026-01-04 23:06:30,038 INFO Experiment finished in 0.15s
+2026-01-04 23:06:30,038 INFO Results saved to saved_models/q_values/dyna_line_world.pkl
+2026-01-04 23:07:39,670 INFO Starting experiment: dyna_line_world
+2026-01-04 23:07:39,845 INFO Experiment finished in 0.18s
+2026-01-04 23:07:39,846 INFO Results saved to saved_models/q_values/dyna_line_world.pkl
+2026-01-04 23:11:02,494 INFO Starting experiment: dyna_line_world
+2026-01-04 23:11:02,635 INFO Experiment finished in 0.14s
+2026-01-04 23:11:02,637 INFO Results saved to saved_models/q_values/dyna_line_world.pkl
+2026-01-04 23:12:53,551 INFO Starting experiment: dyna_line_world
+2026-01-04 23:12:54,045 INFO Experiment finished in 0.49s
+2026-01-04 23:12:54,045 INFO Results saved to saved_models/q_values/dyna_line_world.pkl

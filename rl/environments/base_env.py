@@ -50,3 +50,9 @@ class BaseEnvironment(ABC):
         Visualizes the environment.
         """
         pass
+    def simulate_step(self, state, action):
+        """
+        Simulate a transition from (state, action) without touching the real env.
+        Returns: next_state, reward, done
+        """
+        pass

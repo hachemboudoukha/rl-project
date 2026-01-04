@@ -1,0 +1,9 @@
+2026-01-04 23:07:41,051 INFO Starting experiment: mc_on_monty_hall_l1
+2026-01-04 23:07:41,104 INFO Experiment finished in 0.05s
+2026-01-04 23:07:41,104 INFO Results saved to saved_models/q_values/mc_on_monty_hall_l1.pkl
+2026-01-04 23:11:03,719 INFO Starting experiment: mc_on_monty_hall_l1
+2026-01-04 23:11:03,764 INFO Experiment finished in 0.04s
+2026-01-04 23:11:03,764 INFO Results saved to saved_models/q_values/mc_on_monty_hall_l1.pkl
+2026-01-04 23:12:57,965 INFO Starting experiment: mc_on_monty_hall_l1
+2026-01-04 23:12:58,295 INFO Experiment finished in 0.33s
+2026-01-04 23:12:58,295 INFO Results saved to saved_models/q_values/mc_on_monty_hall_l1.pkl

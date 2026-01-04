@@ -1,0 +1,9 @@
+2026-01-04 23:07:41,046 INFO Starting experiment: pi_monty_hall_l1
+2026-01-04 23:07:41,048 INFO Experiment finished in 0.00s
+2026-01-04 23:07:41,048 INFO Results saved to saved_models/policies/pi_monty_hall_l1.pkl
+2026-01-04 23:11:03,716 INFO Starting experiment: pi_monty_hall_l1
+2026-01-04 23:11:03,717 INFO Experiment finished in 0.00s
+2026-01-04 23:11:03,717 INFO Results saved to saved_models/policies/pi_monty_hall_l1.pkl
+2026-01-04 23:12:57,965 INFO Starting experiment: pi_monty_hall_l1
+2026-01-04 23:12:57,965 INFO Experiment finished in 0.00s
+2026-01-04 23:12:57,965 INFO Results saved to saved_models/policies/pi_monty_hall_l1.pkl

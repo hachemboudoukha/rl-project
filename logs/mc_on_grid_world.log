@@ -1,0 +1,15 @@
+2026-01-04 23:04:06,599 INFO Starting experiment: mc_on_grid_world
+2026-01-04 23:04:08,010 INFO Experiment finished in 1.41s
+2026-01-04 23:04:08,010 INFO Results saved to saved_models/q_values/mc_on_grid_world.pkl
+2026-01-04 23:06:30,039 INFO Starting experiment: mc_on_grid_world
+2026-01-04 23:06:30,256 INFO Experiment finished in 0.22s
+2026-01-04 23:06:30,256 INFO Results saved to saved_models/q_values/mc_on_grid_world.pkl
+2026-01-04 23:07:39,847 INFO Starting experiment: mc_on_grid_world
+2026-01-04 23:07:40,153 INFO Experiment finished in 0.31s
+2026-01-04 23:07:40,153 INFO Results saved to saved_models/q_values/mc_on_grid_world.pkl
+2026-01-04 23:11:02,639 INFO Starting experiment: mc_on_grid_world
+2026-01-04 23:11:02,874 INFO Experiment finished in 0.23s
+2026-01-04 23:11:02,874 INFO Results saved to saved_models/q_values/mc_on_grid_world.pkl
+2026-01-04 23:12:54,045 INFO Starting experiment: mc_on_grid_world
+2026-01-04 23:12:55,342 INFO Experiment finished in 1.30s
+2026-01-04 23:12:55,342 INFO Results saved to saved_models/q_values/mc_on_grid_world.pkl

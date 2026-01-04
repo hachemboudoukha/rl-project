@@ -1,0 +1,9 @@
+2026-01-04 23:07:40,827 INFO Starting experiment: mc_on_rps
+2026-01-04 23:07:40,875 INFO Experiment finished in 0.05s
+2026-01-04 23:07:40,875 INFO Results saved to saved_models/q_values/mc_on_rps.pkl
+2026-01-04 23:11:03,481 INFO Starting experiment: mc_on_rps
+2026-01-04 23:11:03,561 INFO Experiment finished in 0.08s
+2026-01-04 23:11:03,562 INFO Results saved to saved_models/q_values/mc_on_rps.pkl
+2026-01-04 23:12:57,143 INFO Starting experiment: mc_on_rps
+2026-01-04 23:12:57,480 INFO Experiment finished in 0.34s
+2026-01-04 23:12:57,481 INFO Results saved to saved_models/q_values/mc_on_rps.pkl

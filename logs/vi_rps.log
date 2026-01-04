@@ -1,0 +1,11 @@
+2026-01-04 23:04:09,712 INFO Starting experiment: vi_rps
+2026-01-04 23:06:30,933 INFO Starting experiment: vi_rps
+2026-01-04 23:07:40,737 INFO Starting experiment: vi_rps
+2026-01-04 23:07:40,741 INFO Experiment finished in 0.00s
+2026-01-04 23:07:40,827 INFO Results saved to saved_models/policies/vi_rps.pkl
+2026-01-04 23:11:03,475 INFO Starting experiment: vi_rps
+2026-01-04 23:11:03,480 INFO Experiment finished in 0.01s
+2026-01-04 23:11:03,480 INFO Results saved to saved_models/policies/vi_rps.pkl
+2026-01-04 23:12:57,135 INFO Starting experiment: vi_rps
+2026-01-04 23:12:57,143 INFO Experiment finished in 0.01s
+2026-01-04 23:12:57,143 INFO Results saved to saved_models/policies/vi_rps.pkl

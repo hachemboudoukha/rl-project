@@ -59,3 +59,12 @@ class LineWorld(BaseEnvironment):
         line[self.current_pos] = 'A'
         line[self.goal_pos] = 'G' if self.current_pos != self.goal_pos else 'X'
         print(''.join(['[' + cell + ']' for cell in line]))
+
+    def simulate_step(self, state, action):
+        if action == 0:
+            next_state = max(0, state - 1)
+        else:
+            next_state = min(self.length - 1, state + 1)
+        reward = 1.0 if next_state == self.goal_pos else 0.0
+        done = next_state == self.goal_pos
+        return next_state, reward, done

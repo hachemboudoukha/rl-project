@@ -1,0 +1,6 @@
+2026-01-04 23:11:03,983 INFO Starting experiment: sarsa_monty_hall_l2
+2026-01-04 23:11:04,018 INFO Experiment finished in 0.03s
+2026-01-04 23:11:04,019 INFO Results saved to saved_models/q_values/sarsa_monty_hall_l2.pkl
+2026-01-04 23:12:59,159 INFO Starting experiment: sarsa_monty_hall_l2
+2026-01-04 23:12:59,273 INFO Experiment finished in 0.11s
+2026-01-04 23:12:59,275 INFO Results saved to saved_models/q_values/sarsa_monty_hall_l2.pkl

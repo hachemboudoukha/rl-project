@@ -88,3 +88,18 @@ class GridWorld(BaseEnvironment):
             print(line)
             print("=" * (self.width * 4 + 1))
         print(f"Position: {self.current_pos} | Done: {self.done}\n")
+
+    def simulate_step(self, state, action):
+        row, col = state
+        if action == 0:
+            new_pos = (max(0, row - 1), col)
+        elif action == 1:
+            new_pos = (min(self.height - 1, row + 1), col)
+        elif action == 2:
+            new_pos = (row, max(0, col - 1))
+        elif action == 3:
+            new_pos = (row, min(self.width - 1, col + 1))
+        
+        reward = 1.0 if new_pos == self.goal_pos else 0.0
+        done = new_pos == self.goal_pos
+        return new_pos, reward, done

@@ -1,0 +1,9 @@
+2026-01-04 23:07:40,912 INFO Starting experiment: ql_rps
+2026-01-04 23:07:40,936 INFO Experiment finished in 0.02s
+2026-01-04 23:07:40,936 INFO Results saved to saved_models/q_values/ql_rps.pkl
+2026-01-04 23:11:03,594 INFO Starting experiment: ql_rps
+2026-01-04 23:11:03,618 INFO Experiment finished in 0.02s
+2026-01-04 23:11:03,619 INFO Results saved to saved_models/q_values/ql_rps.pkl
+2026-01-04 23:12:57,587 INFO Starting experiment: ql_rps
+2026-01-04 23:12:57,675 INFO Experiment finished in 0.09s
+2026-01-04 23:12:57,681 INFO Results saved to saved_models/q_values/ql_rps.pkl
